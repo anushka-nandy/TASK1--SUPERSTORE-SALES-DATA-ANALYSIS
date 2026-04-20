@@ -1,4 +1,4 @@
-SpuerStores Sales Data Analysis
+SuperStores Sales Data Analysis
 ->>> Project Overview
 
 This project analyzes a retail/superstore dataset to identify sales trends, regional performance, customer behavior, and profitability drivers using Excel, SQL (PostgreSQL), and Power BI.
